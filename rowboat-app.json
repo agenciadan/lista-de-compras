@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "lista-de-compras",
+  "version": "1.0.0",
+  "description": "Checklist de compras por data e loja, orçamento e histórico de preços.",
+  "capabilities": [],
+  "dataContracts": [{"file":"compras.json","requiredKeys":["items","history"],"nonEmptyArrayKeys":[]}]
+}
